@@ -1,0 +1,39 @@
+<!DOCTYPE HTML>
+
+<html lang="hr">
+
+	<head>
+
+		<title>Programiranje web aplikacija</title>
+
+		<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+		<meta name="description" content="">
+
+		<meta name="keywords" content="">
+
+		<meta name="author" content="Martin Šnajder">
+
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+
+	</head>
+
+	<body>
+
+		<h1>Naslov</h1>
+
+		<h2>Podnaslov</h2>
+
+		<p>Odlomak 1</p>
+
+		<p>Odlomak 2</p>
+
+		<img src="slikaweb.jpg" alt="Slika sa Index.hr" title="Slika sa Index.hr" height="400">
+
+		<img src="https://ip.index.hr/remote/bucket.index.hr/b/index/ebf8b9bd-df84-4a08-ae46-333718d463ab.jpg?width=765&height=414" alt="Link sa Index.hr" title="Link sa Index.hr" height="400">
+
+	</body>
+
+</html>
